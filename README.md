@@ -2,6 +2,8 @@
 The Shopping Trends Dataset contains detailed information about consumer shopping behavior across various product categories and time periods. This dataset can be used to analyze purchasing patterns, trends in sales, customer preferences, and much more. It is ideal for exploring data analytics, visualization.
 
 # This Data Set contains 18 columns and range index : 3899
+
+
  #   Column                    Non-Null Count  Dtype  
 ---  ------                    --------------  -----  
  0   Customer ID               3900 non-null   int64  
